@@ -1,5 +1,7 @@
 # hand-tracking-virtual_instrument
 touch designer里实现的由单目手势识别驱动的虚拟乐器
+演示视频：
+https://www.bilibili.com/video/BV1CTJNzQEk4/
 
 使用了torinmb的mediapipe框架来做手势识别
 https://github.com/torinmb/mediapipe-touchdesigner
